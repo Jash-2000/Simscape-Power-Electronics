@@ -1,0 +1,12 @@
+* General Requirements
+
+MATLAB 2020B,
+Simulink,
+Simscape toolbox (power GUI)
+
+---
+
+* For Switch Model
+
+Power MOSFET,
+Power Diode from Simscape Electrical
